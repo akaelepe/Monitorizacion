@@ -25,3 +25,6 @@ Este repositorio describe comandos clave que pueden utilizarse para la monitoria
 <br>
   
 ## DIRECTORIOS ENLAZADOS  
+[![PROCESOS](https://img.shields.io/badge/IR%20A%20MONITORIZACION%20DE%20PROCESOS-RED?style=for-the-badge&color=%237289da)](./monitorizacionProcesos.md)  
+[![ALMACENAMIENTO](https://img.shields.io/badge/IR%20A%20MONITORIZACION%20DE%20ALMACENAMIENTO-RED?style=for-the-badge&color=%237289da)](./monitorizacionAlmacenamiento.md)  
+[![RED](https://img.shields.io/badge/IR%20A%20MONITORIZACION%20DE%20RED-RED?style=for-the-badge&color=%237289da)](./monitorizacionRed.md)  
